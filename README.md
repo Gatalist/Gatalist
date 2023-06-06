@@ -6,30 +6,39 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/kostenko-240693/)
 
 
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/css3.svg">  
+<h3 align="center">Pinned Repositories</h3>
+
+<a href="#">
+  <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/css3.svg">
 </a>
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-<img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/django.svg">  
+<a href="#">
+  <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/django.svg">
+</a>
+<a href="#">
+  <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/docker.svg">
+</a>
+<a href="#">
+  <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/flask.svg">
+</a>
+<a href="#">
+  <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/github.svg">
+</a>
+<a href="#">
+  <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/gnometerminal.svg">
+</a>
+<a href="#">
+  <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/html5.svg">
+</a>
+<a href="#">
+  <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/javascript.svg">
+</a>
+<a href="#">
+  <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/postgresql.svg">
+</a>
+<a href="#">
+  <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/python.svg">
 </a>
 
-
-
-<!-- Pinned Repositories -- >
-
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/braydoncoyer/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/braydoncoyer/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
 <!-- GitHub Stats -- >
 
