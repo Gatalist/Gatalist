@@ -59,10 +59,10 @@
 <h2 align="center">System</h2>  
 
 <a href="#">
-  <img align="center" style="margin:1rem 2rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/linux.svg" alt="linux">
+  <img align="center" style="margin:1rem 3rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/linux.svg" alt="linux">
 </a>
 <a href="#">
-  <img align="center" style="margin:1rem 2rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/windows.svg" alt="windows">
+  <img align="center" style="margin:1rem 3rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/windows.svg" alt="windows">
 </a>
 
 
