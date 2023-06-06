@@ -7,10 +7,7 @@
 
 
 
-<picture>
-  <img style="margin:1rem 0.5rem" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/css3.svg">
-</picture>
-
+<img style="margin:1rem 0.5rem" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/css3.svg">
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
