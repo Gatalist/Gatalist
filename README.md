@@ -9,56 +9,56 @@
 <h3 align="center">Pinned Repositories</h3>
 
 <a href="#">
-  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/html5.svg">
+  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/html5.svg" alt="html5">
 </a>
 <a href="#">
-  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/css3.svg">
+  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/css3.svg" alt="css3">
 </a>
 <a href="#">
-  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/javascript.svg">
+  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/javascript.svg" alt="javascript">
 </a>
 <a href="#">
-  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/python.svg">
+  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/python.svg" alt="python">
 </a>
 <a href="#">
-  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/postgresql.svg">
+  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/postgresql.svg" alt="postgresql">
 </a>
 <a href="#">
-  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/docker.svg">
+  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/docker.svg" alt="docker">
 </a>
 <a href="#">
-  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/terminal.svg">
+  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/terminal.svg" alt="terminal">
 </a>
 <a href="#">
-  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/nginx.svg">
+  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/nginx.svg" alt="nginx">
 </a>
 <a href="#">
-  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/redis.svg">
+  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/redis.svg" alt="redis">
 </a>
 **
 
 <a href="#">
-  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/flask.svg">
+  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/flask.svg" alt="flask">
 </a>
 <a href="#">
-  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/django.svg">
-</a>
-
-<a href="#">
-  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/vscode.svg">
+  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/django.svg" alt="django">
 </a>
 
 <a href="#">
-  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/pycharm.svg">
+  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/vscode.svg" alt="vscode">
+</a>
+
+<a href="#">
+  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/pycharm.svg" alt="pycharm">
 </a>
 
 
 
 <a href="#">
-  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/linux.svg">
+  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/linux.svg" alt="linux">
 </a>
 <a href="#">
-  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/windows.svg">
+  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/windows.svg" alt="windows">
 </a>
 
 
