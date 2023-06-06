@@ -9,35 +9,43 @@
 <h3 align="center">Pinned Repositories</h3>
 
 <a href="#">
-  <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/css3.svg">
+  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/html5.svg">
 </a>
 <a href="#">
-  <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/django.svg">
-</a>
-<a href="#">
-  <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/docker.svg">
-</a>
-<a href="#">
-  <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/flask.svg">
-</a>
-<a href="#">
-  <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/github.svg">
-</a>
-<a href="#">
-  <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/gnometerminal.svg">
-</a>
-<a href="#">
-  <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/html5.svg">
+  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/css3.svg">
 </a>
 <a href="#">
   <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/javascript.svg">
 </a>
 <a href="#">
+  <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/python.svg">
+</a>
+<a href="#">
   <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/postgresql.svg">
 </a>
 <a href="#">
-  <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/python.svg">
+  <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/docker.svg">
 </a>
+<a href="#">
+  <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/gnometerminal.svg">
+</a>
+<a href="#">
+  <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/github.svg">
+</a>
+
+<a href="#">
+  <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/django.svg">
+</a>
+<a href="#">
+  <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/flask.svg">
+</a>
+
+
+
+
+
+
+
 
 
 <!-- GitHub Stats -- >
