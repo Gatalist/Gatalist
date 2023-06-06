@@ -34,8 +34,10 @@
 </a>
 <a href="#">
   <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/redis.svg" alt="redis">
-</a>
-**
+</a>  
+
+
+<h3 align="center">Frameworks</h3>  
 
 <a href="#">
   <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/flask.svg" alt="flask">
@@ -43,6 +45,8 @@
 <a href="#">
   <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/django.svg" alt="django">
 </a>
+
+<h3 align="center">Code Editor</h3>  
 
 <a href="#">
   <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/vscode.svg" alt="vscode">
@@ -52,7 +56,7 @@
   <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/pycharm.svg" alt="pycharm">
 </a>
 
-
+<h3 align="center">System</h3>  
 
 <a href="#">
   <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/linux.svg" alt="linux">
