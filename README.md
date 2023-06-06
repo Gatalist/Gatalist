@@ -32,19 +32,34 @@
 <a href="#">
   <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/nginx.svg">
 </a>
-
 <a href="#">
-  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/django.svg">
+  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/redis.svg">
 </a>
+**
+
 <a href="#">
   <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/flask.svg">
 </a>
+<a href="#">
+  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/django.svg">
+</a>
+
+<a href="#">
+  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/vscode.svg">
+</a>
+
+<a href="#">
+  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/pycharm.svg">
+</a>
 
 
 
-
-
-
+<a href="#">
+  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/linux.svg">
+</a>
+<a href="#">
+  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/windows.svg">
+</a>
 
 
 
