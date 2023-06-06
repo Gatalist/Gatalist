@@ -8,7 +8,7 @@
 
 
 <picture>
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/Gatalist/Gatalist/blob/main/svg/css3.svg">
+  <img style="margin:1rem 0.5rem" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/css3.svg">
 </picture>
 
 
