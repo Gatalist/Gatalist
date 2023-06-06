@@ -7,9 +7,9 @@
 
 
 
-<img style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/css3.svg">  
+<img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/css3.svg">  
 
-<img style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/django.svg">  
+<img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/django.svg">  
 
 
 
