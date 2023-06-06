@@ -37,13 +37,16 @@
 </a>  
 
 
-<h2 align="center">Frameworks</h2>  
+<h2 align="center">Frameworks and libraries</h2>  
 
 <a href="#">
   <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/flask.svg" alt="flask">
 </a>
 <a href="#">
   <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/django.svg" alt="django">
+</a>
+<a href="#">
+  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/dotenv.svg" alt="django">
 </a>
 
 <h2 align="center">Code Editor</h2>  
