@@ -49,11 +49,11 @@
 <h2 align="center">Code Editor</h2>  
 
 <a href="#">
-  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/vscode.svg" alt="vscode">
+  <img align="center" style="margin:1rem 5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/vscode.svg" alt="vscode">
 </a>
 
 <a href="#">
-  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/pycharm.svg" alt="pycharm">
+  <img align="center" style="margin:1rem 5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/pycharm.svg" alt="pycharm">
 </a>
 
 <h2 align="center">System</h2>  
