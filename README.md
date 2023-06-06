@@ -6,11 +6,12 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/kostenko-240693/)
 
 
-
-<img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/css3.svg">  
-
+<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
+  <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/css3.svg">  
+</a>
+<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
 <img align="center" style="margin:1rem 0.5rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/django.svg">  
-
+</a>
 
 
 
