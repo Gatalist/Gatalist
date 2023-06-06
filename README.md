@@ -6,7 +6,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/kostenko-240693/)
 
 
-<h2 align="center">Pinned Repositories</h2>
+<h2 align="center">A tech stack</h2>
 
 <a href="#">
   <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/html5.svg" alt="html5">
