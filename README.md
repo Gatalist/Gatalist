@@ -6,7 +6,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/kostenko-240693/)
 
 
-<h3 align="center">Pinned Repositories</h3>
+<h2 align="center">Pinned Repositories</h2>
 
 <a href="#">
   <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/html5.svg" alt="html5">
@@ -37,7 +37,7 @@
 </a>  
 
 
-<h3 align="center">Frameworks</h3>  
+<h2 align="center">Frameworks</h2>  
 
 <a href="#">
   <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/flask.svg" alt="flask">
@@ -46,7 +46,7 @@
   <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/django.svg" alt="django">
 </a>
 
-<h3 align="center">Code Editor</h3>  
+<h2 align="center">Code Editor</h2>  
 
 <a href="#">
   <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/vscode.svg" alt="vscode">
@@ -56,13 +56,13 @@
   <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/pycharm.svg" alt="pycharm">
 </a>
 
-<h3 align="center">System</h3>  
+<h2 align="center">System</h2>  
 
 <a href="#">
-  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/linux.svg" alt="linux">
+  <img align="center" style="margin:1rem 2rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/linux.svg" alt="linux">
 </a>
 <a href="#">
-  <img align="center" style="margin:1rem 1rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/windows.svg" alt="windows">
+  <img align="center" style="margin:1rem 2rem" width="50px" alt="css3" src="https://github.com/Gatalist/Gatalist/blob/main/svg/windows.svg" alt="windows">
 </a>
 
 
